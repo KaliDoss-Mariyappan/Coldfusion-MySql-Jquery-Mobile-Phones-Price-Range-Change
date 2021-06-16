@@ -1,0 +1,17 @@
+.contentBox{
+    padding: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border: 1px solid #232323;
+}
+input[type='range']{
+    width: 90%;
+}
+.spinner-border{
+    left: 50%;
+    top: 35%;
+    position: absolute;
+}
+#displayNone{
+    display: none;
+}
